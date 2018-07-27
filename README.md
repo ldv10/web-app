@@ -1,2 +1,2 @@
 # web-app
-Webapp Teledoctor
+Webapp
